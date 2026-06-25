@@ -14,7 +14,7 @@ Todo:
 
 - see comment section of `build.sh`
 - Add 4ti2, polymake
-- normaliz has some optional packages: e-antic, nauty, cocoalib; add them 
+- normaliz has some optional packages: [e-antic](https://github.com/flatsurf/e-antic), [nauty](https://users.cecs.anu.edu.au/~bdm/nauty/), [cocoalib](https://github.com/cocoa-official/CoCoALib); add them; see https://github.com/Normaliz/Normaliz
 - link gfan with [soplex](https://github.com/scipopt/soplex) (advanced)
 
 Setup Instructions:
