@@ -12,8 +12,10 @@ After executing `build.sh`, use `run-web-demo.sh` to setup a working website.
 
 Todo:
 
-- Add cddlib (done), ntl (done), normaliz (done), 4ti2, polymake, TOPCOM (done).
-- "normaliz.lib", "gfan.lib", "tropical.lib" are working. Most libraries should work but this requires testing.
+- see comment section of `build.sh`
+- Add 4ti2, polymake
+- normaliz has some optional packages: e-antic, nauty, cocoalib; add them 
+- link gfan with [soplex](https://github.com/scipopt/soplex) (advanced)
 
 Setup Instructions:
 
